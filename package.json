@@ -2,7 +2,6 @@
   "name": "reactpractice-01",
   "version": "1.0.0",
   "description": "Developing React App",
-  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
